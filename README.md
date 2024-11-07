@@ -41,7 +41,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/swan1213/portfolio
+$ git clone https://github.com/HappySuzuki/Update
 
 # Install dependencies
 $ npm i
